@@ -1,3 +1,5 @@
+ // ignore_for_file: constant_identifier_names
+
 const mongodb_connection_url =
     "mongodb+srv://soufian_testeur:soufianch@testmdb.ihksbto.mongodb.net/db_test?retryWrites=true&w=majority";
 
